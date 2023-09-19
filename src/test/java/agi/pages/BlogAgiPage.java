@@ -29,10 +29,6 @@ public class BlogAgiPage {
         PageFactory.initElements(driver, this);
     }
 
-    public void formularioDeLogin(String email, String senha) {
-
-    }
-
     public String obterTituloPagina() {
         return driver.getTitle();
 
