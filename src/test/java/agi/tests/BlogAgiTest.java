@@ -48,5 +48,4 @@ public class BlogAgiTest extends BaseTest {
 
         assertEquals(blogPage.validarArchiveTitle(), "Resultados da busca por: Agibank se prepara para transacionar via Drex");
     }
-
 }

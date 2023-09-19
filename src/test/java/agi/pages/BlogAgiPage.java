@@ -57,5 +57,4 @@ public class BlogAgiPage {
     public void inputSearchSubmit() {
         inputSearchSubmit.click();
     }
-
 }
